@@ -9,11 +9,14 @@ public class PlayerPrefsScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		cube = GameObject.Find ("Cube");
-		
-	}
+
+        PlayerPrefs.SetInt("MyFirstKey", 42);
+
+        PlayerPrefs.GetInt("MyFirstKey");
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		PlayerPrefs playerPrefs = new PlayerPrefs ();
 	}
 }

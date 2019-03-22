@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ItemDataBase xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CombatEquipment>
+    <ItemEntry>
+      <itemName>shield</itemName>
+      <material>Wood</material>
+      <value>3</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>lufei</itemName>
+      <material>Copper</material>
+      <value>1</value>
+    </ItemEntry>
+    <ItemEntry>
+      <itemName>nami</itemName>
+      <material>Iron</material>
+      <value>4</value>
+    </ItemEntry>
+	    <ItemEntry>
+      <itemName>shield</itemName>
+      <material>Wood</material>
+      <value>3</value>
+    </ItemEntry>
+  </CombatEquipment>
+</ItemDataBase>
